@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node / build systems (in case of future tools)
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode / IDE configs
+.vscode/
+.idea/
