@@ -1,0 +1,40 @@
+{
+  "project": "KAI",
+  "mark": "< | !",
+  "primary_color": "#8AA0E0",
+  "sources": {
+    "original_input": "Logo_KAI_1024_1024.jpg",
+    "master_png": "master/kai_logo_1024.png",
+    "master_png_transparent": "master/kai_logo_1024_transparent.png",
+    "embedded_svg": "logo/kai_logo_embedded.svg"
+  },
+  "icons_png": {
+    "on_black": [
+      "icons/png/32.png",
+      "icons/png/64.png",
+      "icons/png/128.png",
+      "icons/png/192.png",
+      "icons/png/256.png",
+      "icons/png/512.png",
+      "icons/png/1024.png"
+    ],
+    "transparent": [
+      "icons/png/32_transparent.png",
+      "icons/png/64_transparent.png",
+      "icons/png/128_transparent.png",
+      "icons/png/192_transparent.png",
+      "icons/png/256_transparent.png",
+      "icons/png/512_transparent.png",
+      "icons/png/1024_transparent.png"
+    ]
+  },
+  "social": [
+    "social/x_profile_400x400.png",
+    "social/x_banner_1500x500.png",
+    "social/og_1200x630.png"
+  ],
+  "web": [
+    "web/favicon.ico",
+    "web/apple-touch-icon_180x180.png"
+  ]
+}
