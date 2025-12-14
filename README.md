@@ -10,9 +10,14 @@ KAI is a Web3 digital asset deployed on **Base**, built around a minimal symboli
 - **BaseScan (token):** https://basescan.org/token/0x766deda04ACFF9098966b986d3e9f246Cfea5C74
 - **BaseScan (address):** https://basescan.org/address/0x766deda04ACFF9098966b986d3e9f246Cfea5C74
 
+## Token details
+- **Symbol:** KAI
+- **Decimals:** 18
+- **Max supply:** 33,333,333
+
 ## Official Links
 - Website: https://kaira33.com
-- X (Twitter): https://x.com/kairakael
+- X: https://x.com/kairakael
 - Telegram: https://t.me/kairakael
 - GitHub: https://github.com/contractenunta-a11y/KAI-project
 
@@ -22,12 +27,18 @@ KAI is a Web3 digital asset deployed on **Base**, built around a minimal symboli
 
 ## Brand assets
 All official logo formats & sizes are stored here:
-- `./assets/` (includes icons, social images, web favicons, and master exports)
+- `./assets/`
+- Assets guide: `./assets/README.md`
 
 Recommended icons for explorers / wallets / listings:
 - `assets/icons/png/256.png`
 - `assets/icons/png/512.png`
 - `assets/master/kai_logo_1024.png`
+
+Direct file URLs (for BaseScan / wallets / listings):
+- 256: https://raw.githubusercontent.com/contractenunta-a11y/KAI-project/main/assets/icons/png/256.png
+- 512: https://raw.githubusercontent.com/contractenunta-a11y/KAI-project/main/assets/icons/png/512.png
+- 1024: https://raw.githubusercontent.com/contractenunta-a11y/KAI-project/main/assets/master/kai_logo_1024.png
 
 ## Security
 If you discover a security issue, please contact:
